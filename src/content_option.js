@@ -26,7 +26,7 @@ const worktimeline = [{
     },
     {
         jobtitle: "Associate Solution Engineer",
-        where: "Pune, Nashik",
+        where: "Pune, Maharashtra",
         date: "May 2024 - Present",
     }
 ];
