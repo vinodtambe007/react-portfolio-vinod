@@ -4,7 +4,7 @@ A simple portfolio template for developer/designers built with React.
 
 ### [live preview]()
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+[![react portfoiio](https://github.com/vinodtambe007/react-portfolio-vinod/blob/main/src/assets/images/vinodportfolio.png)](https://github.com/vinodtambe007/react-portfolio-vinod/blob/main/src/assets/images/vinodportfolio.png)
 
 ### Features
 
